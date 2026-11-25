@@ -3,6 +3,9 @@
 Writes one office-life joke to entry.txt: the boss whose door is
 always open meets an employee who takes him literally, at 08:47,
 in noise-cancelling headphones, asking for a raise in sign language.
+The joke lands on the collision: an open-door policy, a worker who
+cannot hear a word of it, and a pay request nobody in the room can
+hear either — the door is open and the conversation is closed.
 
 The program enforces the bounty limits (one line, 1-200 characters,
 no leading or trailing whitespace) and verifies the write by reading
