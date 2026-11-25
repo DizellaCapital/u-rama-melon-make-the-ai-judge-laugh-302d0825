@@ -1,11 +1,11 @@
 """Make the AI Judge Laugh — entry program.
 
-Writes one office-life joke to entry.txt: the boss whose door is
-always open meets an employee who takes him literally, at 08:47,
-in noise-cancelling headphones, asking for a raise in sign language.
-The joke lands on the collision: an open-door policy, a worker who
-cannot hear a word of it, and a pay request nobody in the room can
-hear either — the door is open and the conversation is closed.
+Writes one office-life joke to entry.txt: Brenda from HR has printed
+the same onboarding form 63 times this year, the printer jammed on
+the last page every single time, and she still blames the new guy.
+The joke lands on the collision: a machine that fails identically
+63 times, and a human who has learned nothing from any of them —
+the fault is always someone else, preferably someone who just arrived.
 
 The program enforces the bounty limits (one line, 1-200 characters,
 no leading or trailing whitespace) and verifies the write by reading
@@ -15,7 +15,7 @@ the file back and comparing it byte for byte with the line.
 import os
 import sys
 
-LINE = "My boss says his door is always open, so at 08:47 I walked in wearing noise-cancelling headphones and asked for a raise in sign language."
+LINE = "Brenda from HR has printed the same onboarding form 63 times this year; the printer jammed on the last page every time, and she still calls it 'the new guy's fault'."
 
 MAX_CHARS = 200
 
