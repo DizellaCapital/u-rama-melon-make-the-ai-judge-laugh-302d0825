@@ -12,7 +12,7 @@ office first and funny second.
 
 > At 09:03 Dave from Finance hit reply-all to all 214 of us with 'per my last email' — then spent the morning recalling it, one horrified inbox at a time.
 
-168 characters, one line. The most dreaded three words in office
+152 characters, one line. The most dreaded three words in office
 email, sent to everyone at once, and the sender's whole morning
 becomes damage control: recalling the message inbox by inbox, each
 one more horrified than the last. A specific time, a named person, a
