@@ -10,14 +10,13 @@ office first and funny second.
 
 ## The line
 
-> Brenda from HR has printed the same onboarding form 63 times this year; the printer jammed on the last page every time, and she still calls it 'the new guy's fault'.
+> At 09:03 Dave from Finance hit reply-all to all 214 of us with 'per my last email' — then spent the morning recalling it, one horrified inbox at a time.
 
-175 characters, one line. The printer fails the exact same way
-63 times, and the blame never lands on the printer, the form, or
-the person who keeps pressing print — it lands on the newest
-employee in the building. A named person, a specific number of
-identical failures, and a reframe that turns a jammed printer into
-an office truth: the fault is always the new guy.
+168 characters, one line. The most dreaded three words in office
+email, sent to everyone at once, and the sender's whole morning
+becomes damage control: recalling the message inbox by inbox, each
+one more horrified than the last. A specific time, a named person, a
+specific number of witnesses, and a visual metaphor for the shame.
 
 ## Run it
 
